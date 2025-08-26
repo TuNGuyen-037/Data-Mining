@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shirt Size Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            width: 300px;
+            margin: 0 auto;
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #result {
+            margin-top: 20px;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Shirt Size Prediction</h2>
+        <label for="height">Enter Height (cm):</label>
+        <input type="number" id="height" placeholder="Enter your height">
+
+        <label for="weight">Enter Weight (kg):</label>
+        <input type="number" id="weight" placeholder="Enter your weight">
+
+        <button onclick="predictShirtSize()">Predict Shirt Size</button>
+
+        <div id="result"></div>
+    </div>
+
+    <script>
+        function predictShirtSize() {
+            var height = parseFloat(document.getElementById('height').value);
+            var weight = parseFloat(document.getElementById('weight').value);
+
+            // Gửi yêu cầu POST đến API Python
+            fetch('http://127.0.0.1:5000/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ height: height, weight: weight })
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Hiển thị kết quả dự đoán
+                document.getElementById('result').innerHTML = "Predicted Shirt Size: " + data.prediction;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        }
+    </script>
+</body>
+</html>

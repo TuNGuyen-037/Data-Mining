@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data Mining\\Th\u1EF1c H\u00E0nh 4\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1450AF-8B5E-49A6-BCD5-0409E40D3ED8}|4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n.csproj|d:\\data mining\\th\u1EF1c h\u00E0nh 4\\4.1.\u00E1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\4.1.\u00E1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1450AF-8B5E-49A6-BCD5-0409E40D3ED8}|4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n.csproj|solutionrelative:4.1.\u00E1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1450AF-8B5E-49A6-BCD5-0409E40D3ED8}|4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n.csproj|D:\\Data Mining\\Th\u1EF1c H\u00E0nh 4\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\4.1.\u00E1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F1450AF-8B5E-49A6-BCD5-0409E40D3ED8}|4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n.csproj|solutionrelative:4.1.\u00E1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Data Mining\\Th\u1EF1c H\u00E0nh 4\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\Form1.cs",
+              "RelativeDocumentMoniker": "4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\Form1.cs",
+              "ToolTip": "D:\\Data Mining\\Th\u1EF1c H\u00E0nh 4\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\Form1.cs",
+              "RelativeToolTip": "4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:42:54.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Data Mining\\Th\u1EF1c H\u00E0nh 4\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\Form1.cs",
+              "RelativeDocumentMoniker": "4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\Form1.cs",
+              "ToolTip": "D:\\Data Mining\\Th\u1EF1c H\u00E0nh 4\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\Form1.cs [Design]",
+              "RelativeToolTip": "4.1.\u00C1p d\u1EE5ng model v\u00E0o thi\u1EBFt k\u1EBF giao di\u1EC7n\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:40:43.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

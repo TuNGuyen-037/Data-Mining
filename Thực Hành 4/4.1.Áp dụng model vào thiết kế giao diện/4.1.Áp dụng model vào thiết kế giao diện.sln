@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1.Áp dụng model vào thiết kế giao diện", "4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện.csproj", "{7F1450AF-8B5E-49A6-BCD5-0409E40D3ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1450AF-8B5E-49A6-BCD5-0409E40D3ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1450AF-8B5E-49A6-BCD5-0409E40D3ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1450AF-8B5E-49A6-BCD5-0409E40D3ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1450AF-8B5E-49A6-BCD5-0409E40D3ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A058E2D-F8FA-4938-8FDB-7A6FAF5354D7}
+	EndGlobalSection
+EndGlobal

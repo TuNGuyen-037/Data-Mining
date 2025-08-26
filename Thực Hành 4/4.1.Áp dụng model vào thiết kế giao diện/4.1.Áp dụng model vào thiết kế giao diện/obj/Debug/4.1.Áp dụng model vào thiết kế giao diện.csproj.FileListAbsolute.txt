@@ -1,0 +1,10 @@
+D:\Data Mining\Thực Hành 4\4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện\obj\Debug\4.1.Áp dụng model vào thiết kế giao diện.csproj.AssemblyReference.cache
+D:\Data Mining\Thực Hành 4\4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện\obj\Debug\_4._1.Áp_dụng_model_vào_thiết_kế_giao_diện.Form1.resources
+D:\Data Mining\Thực Hành 4\4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện\obj\Debug\_4._1.Áp_dụng_model_vào_thiết_kế_giao_diện.Properties.Resources.resources
+D:\Data Mining\Thực Hành 4\4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện\obj\Debug\4.1.Áp dụng model vào thiết kế giao diện.csproj.GenerateResource.cache
+D:\Data Mining\Thực Hành 4\4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện\obj\Debug\4.1.Áp dụng model vào thiết kế giao diện.csproj.CoreCompileInputs.cache
+D:\Data Mining\Thực Hành 4\4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện\bin\Debug\4.1.Áp dụng model vào thiết kế giao diện.exe.config
+D:\Data Mining\Thực Hành 4\4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện\bin\Debug\4.1.Áp dụng model vào thiết kế giao diện.exe
+D:\Data Mining\Thực Hành 4\4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện\bin\Debug\4.1.Áp dụng model vào thiết kế giao diện.pdb
+D:\Data Mining\Thực Hành 4\4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện\obj\Debug\4.1.Áp dụng model vào thiết kế giao diện.exe
+D:\Data Mining\Thực Hành 4\4.1.Áp dụng model vào thiết kế giao diện\4.1.Áp dụng model vào thiết kế giao diện\obj\Debug\4.1.Áp dụng model vào thiết kế giao diện.pdb
